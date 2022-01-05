@@ -1,0 +1,9 @@
+.TodoItem{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color: silver;
+    width: 450px;
+    height: 100px;
+
+}
