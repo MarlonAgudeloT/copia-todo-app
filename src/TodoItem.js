@@ -12,7 +12,9 @@ function TodoItem(props){
             {props.text}
             </p>
             <span className= "Icon Icon-delete">
+
             X
+
             </span>
         </li>
     );
