@@ -23,5 +23,6 @@
 }
 
 .CreateTodoButton:hover{
-    transform: rotate(180deg)
+    transform: rotate(180deg);
+    color: rgb(6, 6, 108);
 }
