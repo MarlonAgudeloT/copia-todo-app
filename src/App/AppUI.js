@@ -6,7 +6,7 @@ import {TodoList} from '../TodoList';
 import {TodoItem} from '../TodoItem';
 
 
-function AppUI(
+function AppUI({
     totalTodos,
     completedTodos,
     searchValue,
@@ -14,7 +14,7 @@ function AppUI(
     searchedTodos,
     completeTodo,
     deleteTodo,
-) {
+}) {
 
     return(
     <React.Fragment>
